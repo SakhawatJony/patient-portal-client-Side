@@ -3,7 +3,7 @@ import Banner from './Banner/Banner';
 import MakeAppointment from './Banner/MakeAppointment';
 import Contact from './Contact/Contact';
 import DentalCare from './DentalCare/DentalCare';
-import Footer from './Footer/Footer';
+import Footer from '../Shared/Footer/Footer';
 import Info from './Info/Info';
 import Services from './Services/Services';
 import Testimonials from './Testimonials/Testimonials';
